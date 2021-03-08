@@ -1,2 +1,2 @@
 # Pokedex
-Pokedex using HTML and CSS
+Pokedex using HTML and CSS prueba 2
